@@ -1,0 +1,21 @@
+{
+  "name": "ajax-intro",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Wiesław Pawłowski <w.pawlowski@pja.edu.pl>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
